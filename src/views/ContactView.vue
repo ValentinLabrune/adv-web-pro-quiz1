@@ -1,8 +1,8 @@
 <template>
-  <div class="about">
-    <HeaderMenu/>
-    <h1>This is an about page</h1>
-  </div>
+    <div class="contact">
+        <HeaderMenu/>
+      <h1>This is a contact page</h1>
+    </div>
 </template>
 
 <script>
